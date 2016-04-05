@@ -1,6 +1,6 @@
 # boxup-preset 
 
-> presets for boxup.
+> some presets for boxup.
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/boxup-preset/blob/master/LICENSE)
 [![build:?](https://img.shields.io/travis/bubkoo/boxup-preset/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/boxup-preset)
