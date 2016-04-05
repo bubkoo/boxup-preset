@@ -1,0 +1,43 @@
+{
+  "name": "boxup-preset",
+  "version": "0.1.0",
+  "description": "presets for boxup",
+  "main": "index.js",
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "jshint index.js",
+    "pretest": "npm run lint",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "boxup",
+    "box",
+    "boxes",
+    "terminal",
+    "term",
+    "console",
+    "ascii",
+    "unicode",
+    "border",
+    "text",
+    "json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/boxup-preset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/boxup-preset/issues"
+  },
+  "homepage": "https://github.com/bubkoo/boxup-preset#readme",
+  "dependencies": {
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.1"
+  }
+}
