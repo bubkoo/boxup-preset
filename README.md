@@ -1,6 +1,6 @@
 # boxup-preset 
 
-> some presets for boxup.
+> Some presets for boxup.
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/boxup-preset/blob/master/LICENSE)
 [![build:?](https://img.shields.io/travis/bubkoo/boxup-preset/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/boxup-preset)
@@ -84,5 +84,5 @@ console.log(presets.single);
 ## Related
 
 - [boxup](https://github.com/bubkoo/boxup) - box up text in the terminal
-- [boxup-cli](https://github.com/bubkoo/boxup-cli) - CLI for boxup
+- [boxup-cli](https://github.com/bubkoo/boxup-cli) - cli for boxup
 
