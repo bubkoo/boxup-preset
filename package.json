@@ -1,7 +1,7 @@
 {
   "name": "boxup-preset",
   "version": "1.0.0",
-  "description": "some presets for boxup",
+  "description": "Some presets for boxup",
   "main": "index.js",
   "author": {
     "name": "bubkoo",
